@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.idea{
+    color: purple;
+    padding: 10px 5px;
+    font-size: 18px;
+}
+
+h3{
+    font-weight: unset;
+}
+
+p{
+    padding: 10px 5px;
+    font-size: 14px;
+}
+
